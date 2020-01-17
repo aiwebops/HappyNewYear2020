@@ -1,0 +1,10 @@
+package com.aiwebops.house.common.model;
+
+public class Community {
+	private Integer id;
+	private String cityCode;
+	private String cityName;
+	private String name;
+	
+	
+}

@@ -1,0 +1,17 @@
+package com.aiwebops.house.biz.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.aiwebops.house.common.model.House;
+
+@Service
+public class RecommendService {
+
+	public List<House> getLatest() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

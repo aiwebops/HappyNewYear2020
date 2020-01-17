@@ -1,0 +1,11 @@
+#Thu Jan 16 00:37:48 CST 2020
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1579106268666
+c=0
+cmp=usage
+a=finishWizard
+cl=org.springframework.ide.eclipse.boot.wizard.NewSpringBootWizard
+v=2.2.202
+s=1

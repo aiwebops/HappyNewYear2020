@@ -1,0 +1,5 @@
+package com.aiwebops.house.web.controller;
+
+public class HomePageController {
+
+}

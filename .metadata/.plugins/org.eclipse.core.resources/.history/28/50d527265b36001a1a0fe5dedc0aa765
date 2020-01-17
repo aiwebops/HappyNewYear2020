@@ -1,0 +1,5 @@
+package com.aiwebops.house.common.model;
+
+public class Agency {
+
+}

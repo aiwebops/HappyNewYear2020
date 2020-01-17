@@ -1,0 +1,14 @@
+package com.aiwebops.house.biz.mapper;
+
+import org.apache.ibatis.annotations.Mapper;
+
+@Mapper
+public interface BlogMapper {
+	
+
+	  public List<Blog> selectBlog(@Param("blog")Blog query, @Param("pageParams")PageParams params);
+
+	  public Long selectBlogCount(Blog query);
+
+
+}

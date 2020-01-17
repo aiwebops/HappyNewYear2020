@@ -1,0 +1,5 @@
+package com.aiwebops.house.common.constants;
+
+public class CommonConstants {
+
+}
